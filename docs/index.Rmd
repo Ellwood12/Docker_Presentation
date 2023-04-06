@@ -11,8 +11,22 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<!-- badges: start -->
+<img src="/Users/asherhanson/Desktop/Stat_6555/Docker_Presentation/images/logo.png" align="right" height="135" />
+<!-- badges: end -->
+
 ## Docker
-Info about Docker
+
+**Docker Definition**:
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
+
+To get Docker: https://docs.docker.com/get-docker/ 
 
 ## Rocker
 Info about Rocker
+
+https://rocker-project.org
+
+https://docs.docker.com/engine/reference/commandline/pull/
+
+https://www.youtube.com/watch?v=mAzHELZWE-Y
